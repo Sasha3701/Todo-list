@@ -1,1 +1,3 @@
-<h1 style="text-align: center;">Todo list</h1>
+<main style="display: flex; justify-content: center; align-items: center;">
+	<h1>Todo list</h1>
+</main>
